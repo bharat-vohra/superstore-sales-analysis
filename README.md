@@ -88,7 +88,7 @@ Superstore-Sales-Analysis/
 ├── Superstore Sales Analysis.ipynb
 ├── README.md
 └── data/
-    └── Sample - Superstore.csv
+    └── Superstore dataset.csv
 ```
 
 ## How to Run
